@@ -1,0 +1,7 @@
+{
+  "require": {
+    "zendesk/zendesk_api_client_php": "dev-master",
+    "fzaninotto/faker": "~1.5.0",
+    "symfony/console": "^2.7"
+  }
+}
